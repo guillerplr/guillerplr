@@ -5,5 +5,5 @@
 <a href="https://api.whatsapp.com/send?phone=5521984509969"  align="center">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 
-##### 📊 Sou um analista de dados me aprimorando em PowerBI, Excel, Python e SQL
+##### 👨🏻‍💻 Sou um analista de dados me aprimorando em 📊 PowerBI, 𝄜 Excel, 🐍 Python e 🛢 SQL
 ##### 💻 Atualmente atuo como lider de uma equipe de atendimento em suporte técnico
