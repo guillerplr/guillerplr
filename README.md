@@ -1,7 +1,11 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá! Meu nome é Guilherme Lumbreras</h2>
 
-Sou um Analista de Dados formado em WebDesign e com pós em desenvolvimento de tecnologias digitais.<br>
-Atuando hoje como líder de uma equipe de atendimento em suporte técnico me inclino nos estudos para me aprimorar em ferramentas para análise de dados que me ajudam a gerenciar minha equipe.
+Analista de Dados com foco em automação, processamento de dados e desenvolvimento de soluções analíticas.
+
+Experiência prática com Python, SQL e Power BI na construção de pipelines ETL, APIs e dashboards para análise operacional e tomada de decisão.
+
+Atualmente atuo com análise de dados e automação em ambiente de suporte técnico, desenvolvendo soluções para otimizar processos e melhorar a eficiência operacional.
+
 
 <h4 align="center">Ferramentas com as quais trabalho hoje:</h4>
 
